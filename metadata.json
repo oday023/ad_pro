@@ -1,0 +1,6 @@
+{
+  "name": "البرمجة المتقدمة 2",
+  "description": "منصة مادة البرمجة المتقدمة 2 المكاملة التي تحتوي على محاضرات مفصلة ومجموعات أسئلة مؤتمتة وشروحات إلكترونية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
